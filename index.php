@@ -14,5 +14,5 @@
     $age = $_GET['age'];
     echo $age;
         //just want to check out how this github works
-
+        // This comment must appear in "branch_with_added_comments_only"
 ?>
